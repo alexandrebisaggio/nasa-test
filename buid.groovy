@@ -1,5 +1,5 @@
 node ("master"){
   stage("Init"){
-    println "remote parameter --->${test}"
+    println "remote parameter ---->${test}"
   }
 }
